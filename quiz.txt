@@ -1,0 +1,30 @@
+OOPM|Which of these is not an OOP concept?|Encapsulation|Polymorphism|Inheritance|Compilation|Compilation
+OOPM|Which concept allows using the same function name for different tasks?|Overloading|Overriding|Encapsulation|Abstraction|Overloading
+OOPM|Which access specifier makes members accessible everywhere?|Private|Protected|Public|Static|Public
+OOPM|Which keyword is used to inherit a class in Java?|extends|inherits|derives|implements|extends
+OOPM|Which of these is an example of runtime polymorphism?|Function overloading|Operator overloading|Method overriding|Constructor overloading|Method overriding
+OOPM|What is used to create objects in C++?|new|malloc|alloc|create|new
+OOPM|Which of these allows data hiding?|Encapsulation|Inheritance|Abstraction|Polymorphism|Encapsulation
+OOPM|Which constructor has no parameters?|Copy constructor|Parameterized constructor|Default constructor|Dynamic constructor|Default constructor
+OOPM|Which keyword is used to prevent inheritance?|static|super|final|private|final
+OOPM|Which of these is a blueprint for objects?|Function|Object|Class|Method|Class
+DBMS|Which key uniquely identifies a record in a table?|Primary key|Foreign key|Candidate key|Super key|Primary key
+DBMS|Which command removes all records but keeps the table structure?|DELETE|DROP|TRUNCATE|REMOVE|TRUNCATE
+DBMS|Which SQL clause is used to filter records?|WHERE|FROM|GROUP BY|ORDER BY|WHERE
+DBMS|Which normal form removes partial dependency?|1NF|2NF|3NF|BCNF|2NF
+DBMS|Which of these is a DDL command?|INSERT|UPDATE|CREATE|SELECT|CREATE
+DBMS|Which operation combines records from two or more tables?|JOIN|UNION|INTERSECT|MINUS|JOIN
+DBMS|Which of these is not a valid SQL data type?|INTEGER|DATE|FLOAT|REALITY|REALITY
+DBMS|Which keyword is used to sort query results?|SORT|GROUP BY|ORDER BY|RANK BY|ORDER BY
+DBMS|Which of these ensures data accuracy and consistency?|Integrity constraints|Normalization|Denormalization|Indexing|Integrity constraints
+DBMS|Which of these represents a one-to-many relationship?|Student–RollNo|Teacher–Subject|Department–Employee|Employee–Manager|Department–Employee
+DSA|What is the time complexity of binary search?|O(n)|O(log n)|O(n^2)|O(1)|O(log n)
+DSA|Which data structure uses FIFO?|Stack|Queue|Tree|Graph|Queue
+DSA|Which data structure uses LIFO?|Stack|Queue|Tree|Heap|Stack
+DSA|Which of the following is not a linear data structure?|Array|Stack|Graph|Queue|Graph
+DSA|Which sorting algorithm is the fastest on average?|Bubble Sort|Quick Sort|Insertion Sort|Selection Sort|Quick Sort
+DSA|Which data structure is used in recursion?|Stack|Queue|Array|Graph|Stack
+DSA|Which traversal is used to get sorted output from a BST?|Preorder|Postorder|Inorder|Level order|Inorder
+DSA|What is the maximum number of nodes in a binary tree of height h?|2^h|2^(h+1)-1|h^2|h+1|2^(h+1)-1
+DSA|Which of these is used to find shortest paths in graphs?|DFS|BFS|Dijkstra|Kruskal|Dijkstra
+DSA|Which operation inserts an element at the end of a queue?|Push|Enqueue|Insert|Add|Enqueue
